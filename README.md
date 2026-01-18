@@ -1,22 +1,22 @@
-# Welcome to your Lovable project
+# Welcome to your Frame Portfolio project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/6fd12b81-631e-49d3-83b3-86e8b3fab3ae
+**URL**: https://your-domain.example/projects/6fd12b81-631e-49d3-83b3-86e8b3fab3ae
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use the web UI**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6fd12b81-631e-49d3-83b3-86e8b3fab3ae) and start prompting.
+Simply visit the project's management page and start editing.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via the web UI (if available) will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in the project.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,15 +62,11 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/6fd12b81-631e-49d3-83b3-86e8b3fab3ae) and click on Share -> Publish.
+Follow your chosen deployment provider's instructions or use your project's management UI to publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to this project?
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Yes — configure your deployment / project settings to connect a custom domain.
 
 # ./tailwind-plus folder:
 
