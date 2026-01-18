@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://your-domain.example/projects/6fd12b81-631e-49d3-83b3-86e8b3fab3ae
+**URL**: https://ShahbazPortfolio/projects/6fd12b81-631e-49d3-83b3-86e8b3fab3ae
 
 ## How can I edit this code?
 
