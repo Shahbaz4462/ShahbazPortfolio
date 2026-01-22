@@ -6,6 +6,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  base: "/ShahbazPortfolio/", // <-- important for GitHub Pages
   server: {
     host: "::",
     port: 8080,
